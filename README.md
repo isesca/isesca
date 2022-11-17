@@ -1,6 +1,9 @@
 About
 -----
 
+tbd
+
+<!--
 lets-control.it beschäftigt sich mit diversen Projekten rund um die folgenden Themenbereiche 
 - Regelung und Steuerung
 - Prozessanalyse und Prozessidentifikation
@@ -8,6 +11,7 @@ lets-control.it beschäftigt sich mit diversen Projekten rund um die folgenden T
 - Mikrocontroller, Computer- und Softwaretechnik
 
 Besuchen Sie uns auch auf unserer Website [www.lets-control.it](https://www.lets-control.it)
+-->
 
 <!---
 lets-control/lets-control is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
